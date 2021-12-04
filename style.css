@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    color: black;
+    font-size: 32px;
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
