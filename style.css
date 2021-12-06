@@ -15,3 +15,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
 }
+
+li {
+    line-height: 200%;
+    margin-left: 50px;
+}
